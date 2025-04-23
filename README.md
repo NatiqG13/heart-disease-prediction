@@ -1,4 +1,4 @@
-Heart Disease Prediction:
+**Heart Disease Prediction:**
 
 Built a Logistic Regression model that predicts the presence of heart disease based off of different health indicators. This includes, cholesterol, resting blood pressure, age, etc.
 
